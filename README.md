@@ -31,7 +31,7 @@ chmod +x setup.sh
 ```shell
 ./setup.sh
 ```
-
+## [Shortcuts](/images/shortcuts.md)
 ## Settings
 - Wallpapers: /pictures and change in /.config/bspwm/bspwmrc
 - Change polybar name: /.config/polybar/current.ini
