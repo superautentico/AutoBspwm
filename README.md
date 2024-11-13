@@ -37,6 +37,7 @@ chmod +x setup.sh
 - Change polybar name: /.config/polybar/current.ini
 - Custom modules(change internet adapters):/.config/polybar/custom_modules ethernet_status.sh vpn_status.sh
 - Vpn command config: /home/$USER/vpn/vpn.sh
+- If you click on the IPs (Ethernet, VPN, Target), they are copied to the clipboard.
 
 ## Credits
 - This environment has been inspired by the functionalities of [S4vitar's](https://github.com/s4vitar) environment and [r1vs3c](https://github.com/r1vs3c) .
